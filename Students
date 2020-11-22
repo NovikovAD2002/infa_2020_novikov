@@ -1,0 +1,4 @@
+learners_french = {1, 2, 3}
+pianists = {1, 2, 3, 4, 5, 6}
+swimmers = {2, 3, 4, 7, 6}
+print((pianists & swimmers) - learners_french)
